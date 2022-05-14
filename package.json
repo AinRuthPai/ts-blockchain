@@ -1,0 +1,16 @@
+{
+  "name": "ts-blockchain",
+  "version": "1.0.0",
+  "description": "- 블록체인의 PoC (개념증명)를 객체 지향 프로그래밍을 활용하는 타입스크립트로 만들어보면서 배운다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
